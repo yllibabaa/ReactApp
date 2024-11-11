@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name": "Cappadiocia",
+        "country":"Turkey",
+        "description": "Cappadiocia, a semi-arid region central Turkey, is known for its distinctive landscape"
+    },{
+        "id": 2,
+        "name": "Philippines",
+        "country": "Banaue",
+        "description": "An archipelago of some 7000 islands, the Pillipines is a fun destiantion"
+    },{
+        "id": 3,
+        "name": "Vietnam",
+        "country": "Thailand",
+        "description": "On your next trip to South East Asia skip the touristy Thailand and head to Vietman"
+    },{
+        "id": 4,
+        "name": "Indonesia",
+        "country": "Bali",
+        "description": "Another country with numerous islands to explore is Indonesia"
+    },{
+        "id": 5,
+        "name": "Vienna",
+        "country": "Austria",
+        "description": "Vienna's medival architecture, cobbled streets and quaint cafes make it a charming destinatioin"
+    },{
+        "id": 6,
+        "name": "Kruger National Park",
+        "country": "South Africa",
+        "description": "Offering a wide array of options, South Africa is another destination that shows the perfect place!"
+    }
+]
